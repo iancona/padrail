@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iancona/padrail/releases/latest/download/Padrail.zip"><b>Download Padrail</b></a>
+  <a href="https://github.com/iancona/padrail/releases/latest/download/Padrail.dmg"><b>Download Padrail</b></a>
   &nbsp;·&nbsp;
   <a href="https://padrail.xyz">padrail.xyz</a>
 </p>
@@ -38,8 +38,8 @@ Every edge can be given a different job (volume, brightness, keyboard light, tab
 
 ## Install
 
-1. [Download Padrail.zip](https://github.com/iancona/padrail/releases/latest/download/Padrail.zip) and open it.
-2. Open Padrail. It offers to move itself to Applications, then shows the settings window so you can try every edge right away.
+1. [Download Padrail.dmg](https://github.com/iancona/padrail/releases/latest/download/Padrail.dmg) and open it.
+2. Drag Padrail into Applications and open it. It shows the settings window so you can try every edge right away.
 3. For tabs, zoom, tracks and desktops, allow Padrail in **System Settings → Privacy & Security → Accessibility**. Volume, brightness and keyboard light need no permission.
 
 Padrail is signed and notarized by Apple, and it updates itself when a new version is out.

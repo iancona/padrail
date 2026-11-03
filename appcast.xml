@@ -3,6 +3,24 @@
     <channel>
         <title>Padrail</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 04 Nov 2026 00:25:18 +0100</pubDate>
+            <link>https://padrail.xyz</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Padrail 1.1</h3>
+<ul>
+  <li>A stronger double tick at 0%, at 100% and at your favorite volume. Vibration can be off, only at the limits, or at every step.</li>
+  <li>The edges ignore you while you hold a click, and you can pause Padrail in specific apps from the menu.</li>
+  <li>Brightness works on the screen your pointer is on, external monitors included.</li>
+  <li>An optional volume limit for headphones and AirPods.</li>
+  <li>A Magic Trackpad connected after launch now works right away.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/iancona/padrail/releases/download/v1.1.0/Padrail.dmg" length="2208230" type="application/octet-stream" sparkle:edSignature="iKPE1e8Rf0CoqksGVLjbizOoVC86lr0UbL/7z/p6TfUV7lAPGRnhWXaRPPOpR8w2knHTLo8JWsiriBkqqv/8Dw=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Mon, 02 Nov 2026 21:47:40 +0100</pubDate>
             <link>https://padrail.xyz</link>
