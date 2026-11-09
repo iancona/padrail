@@ -3,6 +3,22 @@
     <channel>
         <title>Padrail</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Mon, 09 Nov 2026 14:43:49 +0100</pubDate>
+            <link>https://padrail.xyz</link>
+            <sparkle:criticalUpdate/>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Padrail 1.2</h3>
+<ul>
+  <li>The edges ignore you while you type, so brushing the trackpad with your palm no longer changes the volume. You can switch it off in Settings.</li>
+  <li>After each update, a notification tells you what's new.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/iancona/padrail/releases/download/v1.2.0/Padrail.dmg" length="2225361" type="application/octet-stream" sparkle:edSignature="l0O96XnSzOKWOQJOycMU2/MxRZuDpY4EI0W8Kkdz20ADaGb8pnIK4sSOpmsN+Dk4sV15NyU5uXHn/ZpsP6FaCg=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 04 Nov 2026 00:25:18 +0100</pubDate>
             <link>https://padrail.xyz</link>
