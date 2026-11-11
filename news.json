@@ -1,1 +1,17 @@
-{"messages":[]}
+{
+ "messages": [
+  {
+   "id": "20261111-095143",
+   "date": "2026-11-11",
+   "title": {
+    "en": "Padrail is on Product Hunt today 🚀",
+    "it": "Padrail è su Product Hunt oggi 🚀"
+   },
+   "body": {
+    "en": "We launched today. If Padrail makes your Mac nicer to use, a comment or a review on Product Hunt would mean a lot. Click to open the page.",
+    "it": "Oggi è il giorno del lancio. Se Padrail ti è utile, un commento o una recensione su Product Hunt ci aiuterebbe tantissimo. Clicca per aprire la pagina."
+   },
+   "url": "https://padrail.xyz/ph"
+  }
+ ]
+}
