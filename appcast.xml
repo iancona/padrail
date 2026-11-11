@@ -3,6 +3,23 @@
     <channel>
         <title>Padrail</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Wed, 11 Nov 2026 14:50:41 +0100</pubDate>
+            <link>https://padrail.xyz</link>
+            <sparkle:criticalUpdate sparkle:version="4"/>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Padrail 1.2.4</h3>
+<ul>
+  <li>The on-screen indicator now really shows over full-screen apps like VS Code, games and presentations.</li>
+  <li>Send feedback right from the menu bar or from Settings.</li>
+  <li>The edges ignore you while you type, and after each update a notification tells you what's new.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/iancona/padrail/releases/download/v1.2.4/Padrail.dmg" length="2262440" type="application/octet-stream" sparkle:edSignature="E25f/S6ccjh3i4QnMRPLwlN+A63twkY8Su/n8xPBOaTpoYuVnL4Lvg/JcMqczSAo0KS8UuHoQ6IxdQEtrD4gCg=="/>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Tue, 10 Nov 2026 19:27:15 +0100</pubDate>
             <link>https://padrail.xyz</link>
@@ -35,23 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/iancona/padrail/releases/download/v1.2.2/Padrail.dmg" length="2261438" type="application/octet-stream" sparkle:edSignature="3B/VEp4BebIRh+GjAjCP/RVY/yoqhYVQcoQBzJf2Arj/HhmSB45qnHqk18lAnJMm867a6Nyai+k4o2bRoj6MAg=="/>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Mon, 09 Nov 2026 15:07:46 +0100</pubDate>
-            <link>https://padrail.xyz</link>
-            <sparkle:criticalUpdate/>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Padrail 1.2.1</h3>
-<ul>
-  <li>The edges ignore you while you type, so brushing the trackpad with your palm no longer changes the volume. You can switch it off in Settings.</li>
-  <li>After each update, a notification tells you what's new.</li>
-  <li>Now and then Padrail can show a short announcement as a notification, at most one a day.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/iancona/padrail/releases/download/v1.2.1/Padrail.dmg" length="2256472" type="application/octet-stream" sparkle:edSignature="RCnuVZfAMe6PzDc1JiEc9tImd5x1qxRdlexOuBAHuTYr6LgBctYQvkYFY9L3Yw1LWwA3cfz0fTG4sa0hLPc3Ag=="/>
         </item>
     </channel>
 </rss>
